@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Hello là Son đây!',
     introDesc: `Chào tất cả mọi người, tự nhiên từ xa lạ lại được gặp mọi người, xong gắn bó với nhau 1 thời gian. Chúc mọi người sau bài test N5 thì ai có dự định gì thì cố gắng thực hiện, còn những ai theo N4 thì chúng ta cố gắng nhé`,
-    btnIntro: 'hihi',
+    btnIntro: 'Next',
     title: 'Lớp học của chúng ta rất vui vẻ đúng không mọi người 😙',
     desc: 'Ai mà giàu thì nhớ giữ liên lạc với lớp nhé ',
     btnYes: 'giữ liên lạc và sẽ tự động gửi Sơn 500k ',
